@@ -1,3 +1,0 @@
-interface Cadeira {
-    void sentar();
-}

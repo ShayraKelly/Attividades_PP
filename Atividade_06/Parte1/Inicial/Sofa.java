@@ -1,3 +1,0 @@
-interface Sofa {
-    void deitar();
-}
